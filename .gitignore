@@ -1,2 +1,2 @@
-# Local Netlify folder
-.netlify
+# Let's Encrypt
+/data/certbot
