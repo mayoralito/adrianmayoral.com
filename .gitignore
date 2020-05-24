@@ -1,2 +1,5 @@
 # Let's Encrypt
 /data/certbot
+
+# Python
+__pycache__/
